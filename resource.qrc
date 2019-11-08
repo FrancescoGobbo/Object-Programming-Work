@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>IMG/buono.png</file>
+        <file>IMG/cuffie.png</file>
+        <file>IMG/eccellente.png</file>
+        <file>IMG/exit.png</file>
+        <file>IMG/help.png</file>
+        <file>IMG/home.png</file>
+        <file>IMG/load.png</file>
+        <file>IMG/logo.png</file>
+        <file>IMG/logoparziale.png</file>
+        <file>IMG/monitor.png</file>
+        <file>IMG/mouse.png</file>
+        <file>IMG/ottimo.png</file>
+        <file>IMG/pessimo.png</file>
+        <file>IMG/reportbug.png</file>
+        <file>IMG/save.png</file>
+        <file>IMG/sufficiente.png</file>
+        <file>IMG/tastiera.png</file>
+        <file>IMG/webcam.png</file>
+    </qresource>
+</RCC>
