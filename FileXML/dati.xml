@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--File di salvataggio dell'applicazione. Non modificare a mano.-->
+<accessori>
+    <tastiera>
+        <nome>Fnatic Streak Pro Gaming Esports</nome>
+        <marca>Fnatic</marca>
+        <costo>129.99</costo>
+        <meseUscita>10</meseUscita>
+        <annoUscita>2018</annoUscita>
+        <tipologia>tastiera</tipologia>
+        <tipoInput>USB</tipoInput>
+        <retroilluminazione>1</retroilluminazione>
+        <layout>Layout UE</layout>
+        <confort>pessima</confort>
+        <pollingRate>1000</pollingRate>
+        <categoria>membrana</categoria>
+        <trackpad>1</trackpad>
+    </tastiera>
+    <monitor>
+        <nome>ASUS ROG STRIX XG27VQ</nome>
+        <marca>ASUS</marca>
+        <costo>449.28</costo>
+        <meseUscita>11</meseUscita>
+        <annoUscita>2015</annoUscita>
+        <tipologia>monitor</tipologia>
+        <tipoInput>hdmi</tipoInput>
+        <risoluzione>7680×4320</risoluzione>
+        <rapportoDAspetto>1,8962:1</rapportoDAspetto>
+        <pollici>27</pollici>
+        <refreshRate>4</refreshRate>
+        <frameRate>144</frameRate>
+        <freeSync>0</freeSync>
+        <gSync>1</gSync>
+        <dynamicRange>HDR</dynamicRange>
+        <casse>1</casse>
+    </monitor>
+    <mouse>
+        <nome>Logitech G903</nome>
+        <marca>Logitech</marca>
+        <costo>184.99</costo>
+        <meseUscita>6</meseUscita>
+        <annoUscita>2017</annoUscita>
+        <tipologia>mouse</tipologia>
+        <tipoInput>Wireless e USB</tipoInput>
+        <dpimin>200</dpimin>
+        <dpimax>12000</dpimax>
+        <pollingRate>1000</pollingRate>
+        <trackingSpeed>150</trackingSpeed>
+        <angleSnapping>1</angleSnapping>
+        <sensore>laser</sensore>
+        <pulsanti>11</pulsanti>
+        <ergonomia>orizzontale</ergonomia>
+        <peso>0.11</peso>
+    </mouse>
+    <webcam>
+        <nome>Microsoft LifeCam Studio</nome>
+        <marca>Microsoft</marca>
+        <costo>99.99</costo>
+        <meseUscita>5</meseUscita>
+        <annoUscita>2019</annoUscita>
+        <tipologia>webcam</tipologia>
+        <tipoInput>Wireless</tipoInput>
+        <angoloDiVisione>75</angoloDiVisione>
+        <zoom>1</zoom>
+        <rotazione>1</rotazione>
+        <frameRate>144</frameRate>
+        <autofocus>1</autofocus>
+        <microfono>monodirezionale</microfono>
+        <luceIntegrata>1</luceIntegrata>
+        <ripreseNotturne>1</ripreseNotturne>
+    </webcam>
+    <cuffie>
+        <nome>Kraken</nome>
+        <marca>Razer</marca>
+        <costo>79</costo>
+        <meseUscita>10</meseUscita>
+        <annoUscita>2016</annoUscita>
+        <tipologia>cuffie</tipologia>
+        <tipoInput>USB</tipoInput>
+        <microfono>0</microfono>
+        <rispostaInFrequenzaCuffie>250</rispostaInFrequenzaCuffie>
+        <impedenza>60</impedenza>
+        <rispostaInFrequenzaMic>0</rispostaInFrequenzaMic>
+        <sensibilitaMic>0</sensibilitaMic>
+        <cancellazioneRumore>0</cancellazioneRumore>
+        <sensibilitaCuf>118</sensibilitaCuf>
+        <peso>6.5</peso>
+    </cuffie>
+</accessori>
